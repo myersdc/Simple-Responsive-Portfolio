@@ -1,4 +1,4 @@
-# Portfólio Responsivo - Myers v1
+# Portfólio Responsivo - Myers 
 
 Olá, este é um simples projeto de um portfólio responsivo que criei para treinamento e diversão. Sinta-se à vontade para editar e utilizar como desejar, sem a necessidade de deixar créditos ou qualquer atribuição. Este projeto é completamente seu. Aprenda, utilize e explore ao máximo! Abraços, Myers.
 
